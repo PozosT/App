@@ -26,7 +26,7 @@ with open("generic_input_case.xlsx", "rb") as file:
 st.markdown("""
 
 ## Objetivo
-Evaluar las habilidades en resolver problemas de prescritive analytics del equipo que aspire a integrarse al equipo de Ciencia de Datos de una reconocida empresa multinacional, líder en soluciones sostenibles e innovadoras.
+Evaluar las habilidades en resolver problemas de prescritive analytics del equipo que aspire a integrarse al Grupo de Ciencia de Datos de una reconocida empresa multinacional, líder en soluciones sostenibles e innovadoras.
             
 ### Objetivos Específicos
 1. Desarrollar un programa con las siguientes especificaciones:
