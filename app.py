@@ -11,7 +11,7 @@ from PIL import Image
 st.set_page_config(page_title="Competencia prescritive analytics", layout="wide")
 
 # Título y descripción
-st.title("Competencia prescritive analytics")
+st.title("Competencia Prescritive Analytics")
 
 # Botón de descarga del archivo de entrada
 st.markdown("### Descargar archivo de entrada")
