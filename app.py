@@ -31,7 +31,7 @@ Evaluar las habilidades en resolver problemas de prescritive analytics de la(o) 
 ### Objetivos Específicos
 1. Desarrollar un programa con las siguientes especificaciones:
    * Leer el archivo en formato .xlsx proporcionado.
-   * Implementar un modelo matemático que cumpla de forma correcta con las reglas de negocio establecidas.
+   * Implementar un heurística o metaheurística que cumpla de forma correcta con las reglas de negocio establecidas.
    * Generar un archivo de salida en formato .xlsx o .csv que contenga la solución encontrada.
    * Utilizar preferentemente el lenguaje Python.
    * Emplear cualquier biblioteca que facilite la implementación de las reglas de negocio.
