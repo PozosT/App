@@ -40,7 +40,8 @@ Evaluar las habilidades en resolver problemas de prescritive analytics del equip
    * Instrucciones para ejecutar el programa.
    * la metodología para resolver el problema.
    * Las premisas asumidas y un análisis de las reglas de negocio.
-   * Cualquier otra información que la(o) candidata(o) considere relevante.
+   * Cualquier otra información que el grupo considere relevante.
+   * El entregable debe seguir las reglas de negocio establecidas, la falta de complitud puede afectar la mejor solución y por tanto esto será tenido en cuenta para la evaluación.
 
 ## Definición del Problema
 Las plantaciones de eucalipto de la empresa se distribuyen en diversas fazendas a lo largo del país. Cada hacienda se divide en Unidades Productivas (UPs). Tras la cosecha de cada UP se genera un volumen de madera que debe ser transportado a las fábricas. Dicho transporte debe planificarse con una granularidad diaria utilizando la flota de vehículos disponible, cumpliendo con un conjunto de premisas y buscando el mejor secuenciamiento posible.
